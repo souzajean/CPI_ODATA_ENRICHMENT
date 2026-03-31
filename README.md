@@ -72,7 +72,7 @@ CPI_ODATA_ENRICHMENT
 <br>
 
 ### Nome do iFlow
-![Fluxo](imagens/Screenshot_13png)
+![Fluxo](imagens/Screenshot_13.png)
 
 <br>
 
