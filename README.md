@@ -1,7 +1,5 @@
-# CPI_ODATA_ENRICHMENT
-SAP BTP CPI - ODATA_ENRICHMENT
-
-🚀 SAP CPI – Integração com Request-Reply & Content Enricher (OData)
+# 🚀 SAP CPI – Integração com Request-Reply & Content Enricher (OData)
+## SAP BTP CPI - ODATA_ENRICHMENT
 
 No dia a dia das empresas, é muito comum a necessidade de integrar diferentes sistemas para consolidar informações e apoiar processos de negócio.
 
