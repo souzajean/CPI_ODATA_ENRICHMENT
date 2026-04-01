@@ -37,7 +37,7 @@ Responsável por complementar os dados com informações adicionais (fornecedore
 ### Nome do Package
 ![Fluxo](imagens/Screenshot_2.png)
 ```
-ZPKG_CPI_ROUTING_SCENARIOS
+ZPKG_CPI_ODATA_ENRICHMENT
 ```
 <br>
 
@@ -45,33 +45,38 @@ ZPKG_CPI_ROUTING_SCENARIOS
 
 ### Adicionando o Artefato
 ![Fluxo](imagens/Screenshot_3.png)
-
-<br>
-
-### Nome do iFlow
-![Fluxo](imagens/Screenshot_4.png)
 ```
 CPI_ODATA_ENRICHMENT
 ```
 
 <br>
 
-### Nome do iFlow
-![Fluxo](imagens/Screenshot_5.png)
+## HTTPS
+![Fluxo](imagens/Screenshot_4.png)
+
 
 <br>
 
-### Nome do iFlow
+### Adicionand o Endpoint
+![Fluxo](imagens/Screenshot_5.png)
+```
+/odata_enrichment
+```
+
+<br>
+
+## Request Replay
+Adicionando o Request Replay
 ![Fluxo](imagens/Screenshot_6.png)
 
 <br>
 
-### Nome do iFlow
+### Adicionando o ODATA
 ![Fluxo](imagens/Screenshot_7.png)
 
 <br>
 
-### Nome do iFlow
+### Selecionando o OData V2
 ![Fluxo](imagens/Screenshot_8.png)
 
 <br>
