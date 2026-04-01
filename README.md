@@ -81,7 +81,7 @@ Adicionando o Request Replay
 
 <br>
 
-### Nome do iFlow
+### Configurando o Request Replay
 ![Fluxo](imagens/Screenshot_9.png)
 ```
 https://services.odata.org/V2/OData/OData.svc/
@@ -89,27 +89,29 @@ https://services.odata.org/V2/OData/OData.svc/
 
 <br>
 
-### Nome do iFlow
+### Configurando o Request Replay Connectuion
 ![Fluxo](imagens/Screenshot_10.png)
 
 <br>
 
-### Nome do iFlow
+### Selecionando o proximo passo nas configurações do OData
 ![Fluxo](imagens/Screenshot_11.png)
 
 <br>
 
-### Nome do iFlow
+### Selecionando as configurações e Definindo 
 ![Fluxo](imagens/Screenshot_12.png)
 
 <br>
 
-### Nome do iFlow
+### Receiver
+Adicionado um novo Receiver
 ![Fluxo](imagens/Screenshot_13.png)
 
 <br>
 
-### Nome do iFlow
+### Content Enrichment
+Adicionando o Content Enrichment
 ![Fluxo](imagens/Screenshot_14.png)
 
 
