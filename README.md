@@ -57,7 +57,7 @@ CPI_ODATA_ENRICHMENT
 
 <br>
 
-### Adicionand o Endpoint
+### Adicionando o Endpoint
 ![Fluxo](imagens/Screenshot_5.png)
 ```
 /odata_enrichment
@@ -83,6 +83,9 @@ Adicionando o Request Replay
 
 ### Nome do iFlow
 ![Fluxo](imagens/Screenshot_9.png)
+```
+https://services.odata.org/V2/OData/OData.svc/
+```
 
 <br>
 
