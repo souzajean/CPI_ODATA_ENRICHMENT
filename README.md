@@ -117,38 +117,52 @@ Adicionando o Content Enrichment
 
 <br>
 
-### Nome do iFlow
+### Adicionando o OData
 ![Fluxo](imagens/Screenshot_15.png)
 
 <br>
 
-### Nome do iFlow
+### Selecionando o OData V2
 ![Fluxo](imagens/Screenshot_16.png)
 
 <br>
 
-### Nome do iFlow
+### Configurando o OData
+Configurando o Connection
 ![Fluxo](imagens/Screenshot_17.png)
+```
+https://services.odata.org/V2/OData/OData.svc/
+```
 
 <br>
 
-### Nome do iFlow
+### Configurando o OData Processing
 ![Fluxo](imagens/Screenshot_18.png)
 
 <br>
 
-### Nome do iFlow
+### Selecionando o proximo passo nas configurações do OData
 ![Fluxo](imagens/Screenshot_19.png)
 
 <br>
 
-### Nome do iFlow
+### Configurando o Entidades e definindo as operations
 ![Fluxo](imagens/Screenshot_20.png)
 
 <br>
 
-### Nome do iFlow
+### Content Enrichment
+Configurando o Content Enrichment em Processing
 ![Fluxo](imagens/Screenshot_21.png)
+```
+ORIGINAL MESSAGE
+Path to Node: /Products/Product
+Key Element: ID
+
+LOOKUP MESSAGE
+Path to Node: /Suppliers/Supplier
+Key Element: ID
+```
 
 <br>
 
