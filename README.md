@@ -42,7 +42,7 @@ Responsável por enriquecer o payload com dados adicionais (Suppliers), com base
 - **Protocolo:** HTTPS  
 - **Formato:** XML (OData V2)  
 - **Serviço de teste:**
-- 
+
 https://services.odata.org/V2/OData/OData.svc/
 
 
