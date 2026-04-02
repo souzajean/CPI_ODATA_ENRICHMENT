@@ -223,7 +223,21 @@ Seleção da entidade Suppliers e definição da operação de leitura (GET) par
 
 <br>
 
+### Content Enrichment
 
+Configuração da lógica de enriquecimento utilizando uma chave comum (ID), permitindo o merge entre os dados de Products e Suppliers.
+```
+ORIGINAL MESSAGE
+Path to Node: /Products/Product
+Key Element: ID
+
+LOOKUP MESSAGE
+Path to Node: /Suppliers/Supplier
+Key Element: ID
+```
+![Fluxo](imagens/Screenshot_21.png)
+
+<br>
 
 
 
