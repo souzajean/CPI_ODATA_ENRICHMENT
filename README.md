@@ -239,53 +239,22 @@ Key Element: ID
 
 <br>
 
+## 🚀 Finalização
+### iFlow finalizado
 
+Fluxo completo com todos os componentes devidamente configurados. Nesta etapa, o artefato deve ser salvo e realizado o deploy no ambiente SAP CPI.
+Vamos salvar e fazer o Deploy
+![Fluxo](imagens/Screenshot_22.png)
 
+<br>
 
+### POSTMAN
 
+Execução de teste utilizando o Postman para validar o endpoint exposto e verificar o retorno do payload enriquecido.
+![Fluxo](imagens/Screenshot_23.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
 <br>
 <br>
 
