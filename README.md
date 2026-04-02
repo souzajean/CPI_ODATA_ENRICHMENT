@@ -202,6 +202,27 @@ https://services.odata.org/V2/OData/OData.svc/
 
 <br>
 
+### Configurando o OData Processing
+
+Definição das propriedades de processamento da chamada OData, incluindo operação e estrutura de retorno.
+![Fluxo](imagens/Screenshot_18.png)
+
+<br>
+
+### Selecionando o próximo passo nas configurações do OData
+
+Continuação da configuração no assistente para refinamento das definições.
+![Fluxo](imagens/Screenshot_19.png)
+
+<br>
+
+### Configurando as Entidades e definindo as operations
+
+Seleção da entidade Suppliers e definição da operação de leitura (GET) para obtenção dos dados que serão utilizados no enriquecimento.
+![Fluxo](imagens/Screenshot_20.png)
+
+<br>
+
 
 
 
