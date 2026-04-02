@@ -118,21 +118,21 @@ Adição do componente Request-Reply, responsável por realizar chamadas síncro
 
 <br>
 
-Adicionando o OData
+## Adicionando o OData
 
 Configuração do adaptador OData como receiver, permitindo consumir serviços externos baseados em OData.
 ![Fluxo](imagens/Screenshot_7.png)
 
 <br>
 
-Selecionando o OData V2
+## Selecionando o OData V2
 
 Definição da versão do protocolo OData (V2), garantindo compatibilidade com o serviço utilizado no cenário.
 ![Fluxo](imagens/Screenshot_8.png)
 
 <br>
 
-Configurando o Request Reply
+## Configurando o Request Reply
 
 Definição da URL do serviço OData que será consumido para obtenção dos dados principais (Products).
 https://services.odata.org/V2/OData/OData.svc/
@@ -140,6 +140,55 @@ https://services.odata.org/V2/OData/OData.svc/
 https://services.odata.org/V2/OData/OData.svc/
 '''
 ![Fluxo](imagens/Screenshot_9.png)
+
+<br>
+Configurando o Request Reply Connection
+
+Configuração dos parâmetros técnicos de conexão, como autenticação, timeout e propriedades de comunicação com o serviço externo.
+![Fluxo](imagens/Screenshot_10.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
