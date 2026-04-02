@@ -176,6 +176,14 @@ Vamos salvar e fazer o Deploy
 Resultado do Postman
 ![Fluxo](imagens/Screenshot_23.png)
 
+<br>
+<br>
+
+---
+
+## 📦 Exemplo prático – iFlow para baixar
+
+📦 [Download do iFlow – CPI_ODATA_ENRICHMENT.zip](https://github.com/souzajean/CPI_ODATA_ENRICHMENT/raw/main/Package/CPI_ODATA_ENRICHMENT.zip)
 
 
 
