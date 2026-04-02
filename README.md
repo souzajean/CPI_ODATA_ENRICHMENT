@@ -263,16 +263,3 @@ Execução de teste utilizando o Postman para validar o endpoint exposto e verif
 ## 📦 Exemplo prático – iFlow para baixar
 
 📦 [Download do iFlow – CPI_ODATA_ENRICHMENT.zip](https://github.com/souzajean/CPI_ODATA_ENRICHMENT/raw/main/Package/CPI_ODATA_ENRICHMENT.zip)
-
-
-
-
-
-
-
-
-
-
-
-
-
