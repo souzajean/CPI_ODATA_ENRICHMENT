@@ -142,19 +142,25 @@ https://services.odata.org/V2/OData/OData.svc/
 ![Fluxo](imagens/Screenshot_9.png)
 
 <br>
+
 ### Configurando o Request Reply Connection
 
 Configuração dos parâmetros técnicos de conexão, como autenticação, timeout e propriedades de comunicação com o serviço externo.
 ![Fluxo](imagens/Screenshot_10.png)
 
 <br>
+
 ### Selecionando o próximo passo nas configurações do OData
 
 Avanço no assistente (wizard) de configuração do OData para definição das entidades e operações disponíveis.
 ![Fluxo](imagens/Screenshot_11.png)
 
+<br>
 
+### Selecionando as configurações e definindo
 
+Seleção da entidade OData e definição da operação de leitura (GET), que será utilizada para buscar os dados.
+![Fluxo](imagens/Screenshot_12.png)
 
 
 
