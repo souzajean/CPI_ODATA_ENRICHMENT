@@ -99,7 +99,7 @@ ZPKG_CPI_ODATA_ENRICHMENT
 
 <br>
 
-🧩 Criação do Integration Flow
+### 🧩 Criação do Integration Flow
 Adicionando o Artefato
 
 Criação do Integration Flow (iFlow), que será responsável por orquestrar todo o processo de integração entre os serviços OData.
@@ -110,8 +110,21 @@ CPI_ODATA_ENRICHMENT
 
 <br>
 
+## 🌐 Configuração do Endpoint (HTTPS)
 
+### HTTPS
+Configuração do protocolo HTTPS para exposição segura do endpoint da integração, permitindo que o iFlow seja consumido externamente de forma segura.
 
+![Fluxo](imagens/Screenshot_4.png)
+
+<br>
+
+### Adicionando o Endpoint
+Definição do endpoint que será utilizado para consumir o iFlow externamente. Este será o caminho exposto para chamadas HTTP.
+
+```bash
+/odata_enrichment
+```
 
 
 
