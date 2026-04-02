@@ -95,14 +95,20 @@ Definição do nome técnico do package seguindo boas práticas de nomenclatura 
 ```bash
 ZPKG_CPI_ODATA_ENRICHMENT
 ```
+![Fluxo](imagens/Screenshot_2.png)
 
+<br>
 
+🧩 Criação do Integration Flow
+Adicionando o Artefato
 
+Criação do Integration Flow (iFlow), que será responsável por orquestrar todo o processo de integração entre os serviços OData.
+```
+CPI_ODATA_ENRICHMENT
+```
+![Fluxo](imagens/Screenshot_3.png)
 
-
-
-
-
+<br>
 
 
 
