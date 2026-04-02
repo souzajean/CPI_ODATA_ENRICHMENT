@@ -125,14 +125,17 @@ Definição do endpoint que será utilizado para consumir o iFlow externamente. 
 ```bash
 /odata_enrichment
 ```
+![Fluxo](imagens/Screenshot_5.png)
 
+<br>
 
+## 🔁 Configuração do Request-Reply
+### Request Reply
 
+Adição do componente Request-Reply, responsável por realizar chamadas síncronas a sistemas externos e aguardar o retorno da resposta.
+![Fluxo](imagens/Screenshot_6.png)
 
-
-
-
-
+<br>
 
 
 
