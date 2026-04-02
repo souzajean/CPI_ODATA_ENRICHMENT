@@ -135,10 +135,9 @@ Definição da versão do protocolo OData (V2), garantindo compatibilidade com o
 ## Configurando o Request Reply
 
 Definição da URL do serviço OData que será consumido para obtenção dos dados principais (Products).
+```
 https://services.odata.org/V2/OData/OData.svc/
-'''
-https://services.odata.org/V2/OData/OData.svc/
-'''
+```
 ![Fluxo](imagens/Screenshot_9.png)
 
 <br>
@@ -162,16 +161,46 @@ Avanço no assistente (wizard) de configuração do OData para definição das e
 Seleção da entidade OData e definição da operação de leitura (GET), que será utilizada para buscar os dados.
 ![Fluxo](imagens/Screenshot_12.png)
 
+<br>
 
+### Receiver
 
+Criação de um novo Receiver, representando o sistema externo que será consumido dentro do fluxo de integração.
+![Fluxo](imagens/Screenshot_13.png)
 
+<br>
 
+## 🔗 Configuração do Content Enricher
+### Content Enrichment
 
+Adição do componente Content Enricher, responsável por complementar o payload original com dados adicionais obtidos de outra fonte.
+![Fluxo](imagens/Screenshot_14.png)
 
+<br>
 
+### Adicionando o OData
 
+Configuração de um segundo adaptador OData, utilizado para buscar os dados complementares (Suppliers).
+![Fluxo](imagens/Screenshot_15.png)
 
+<br>
 
+### Selecionando o OData V2
+
+Definição da versão OData V2 para manter consistência com o serviço previamente configurado.
+![Fluxo](imagens/Screenshot_16.png)
+
+<br>
+
+## Configurando o OData
+
+Configuração da conexão com o serviço OData responsável pelo enriquecimento dos dados.
+```
+https://services.odata.org/V2/OData/OData.svc/
+```
+![Fluxo](imagens/Screenshot_17.png)
+
+<br>
 
 
 
