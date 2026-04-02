@@ -54,26 +54,7 @@ https://services.odata.org/V2/OData/OData.svc/
 ```bash
 ZPKG_CPI_ODATA_ENRICHMENT
 ```
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 
 # :building_construction: Arquitetura do iFlow
@@ -136,6 +117,46 @@ Adição do componente Request-Reply, responsável por realizar chamadas síncro
 ![Fluxo](imagens/Screenshot_6.png)
 
 <br>
+
+Adicionando o OData
+
+Configuração do adaptador OData como receiver, permitindo consumir serviços externos baseados em OData.
+![Fluxo](imagens/Screenshot_7.png)
+
+<br>
+
+Selecionando o OData V2
+
+Definição da versão do protocolo OData (V2), garantindo compatibilidade com o serviço utilizado no cenário.
+![Fluxo](imagens/Screenshot_8.png)
+
+<br>
+
+Configurando o Request Reply
+
+Definição da URL do serviço OData que será consumido para obtenção dos dados principais (Products).
+https://services.odata.org/V2/OData/OData.svc/
+'''
+https://services.odata.org/V2/OData/OData.svc/
+'''
+![Fluxo](imagens/Screenshot_9.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
