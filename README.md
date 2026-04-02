@@ -89,7 +89,7 @@ https://services.odata.org/V2/OData/OData.svc/
 
 <br>
 
-### Configurando o Request Replay Connectuion
+### Configurando o Request Replay Connection
 ![Fluxo](imagens/Screenshot_10.png)
 
 <br>
