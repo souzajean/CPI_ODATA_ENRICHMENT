@@ -5,6 +5,7 @@
 Este projeto demonstra a construção de um cenário de integração no **SAP Cloud Integration (SAP CPI)** utilizando serviços **OData V2**, aplicando padrões clássicos de integração para consolidação de dados em tempo real.
 
 A solução combina os componentes **Request-Reply** e **Content Enricher** para orquestrar múltiplas fontes de dados em um único payload enriquecido.
+![Fluxo](imagens/capa-linkedin.png)
 
 ---
 
